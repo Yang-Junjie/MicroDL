@@ -2,7 +2,7 @@
 
 # MicroDL
 
-**版本:** 0.1
+**版本:** 0.2
 
 **有用的链接:** [源代码](https://github.com/Yang-Junjie/MicroDL)
 
